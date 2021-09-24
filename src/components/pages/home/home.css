@@ -1,0 +1,7 @@
+.home {
+  flex: 4;
+}
+.homeWidgets {
+  display: flex;
+  font-size: 20px;
+}
